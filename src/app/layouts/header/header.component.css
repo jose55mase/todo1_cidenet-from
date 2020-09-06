@@ -9,8 +9,9 @@ a:hover{
 }
 
 nav{
-    background-color: #2B8A95;
-}
+    background-color: #ccc;
+        
+    }
 
 .exit{
     color: red;
